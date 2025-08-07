@@ -1,38 +1,36 @@
-# Hi, I'm Alexis 👋🏽✨  
-**Front-End Developer | Creative Designer | Content Creator**  
+# Alexis Gee  
+**Front-End Developer | Creative Designer | Founder of Ocean Aura Enterprises**  
 
-Founder of **Ocean Aura Enterprises** — where code meets creativity 🖋✨  
-I build clean, responsive web experiences and help brands express themselves visually.  
-Currently leveling up my JavaScript skills and building projects you can *actually* click and explore.  
+I build clean, responsive, and user-focused web experiences. With a background in design and branding, I combine technical skills with creative vision to deliver polished, functional solutions for clients and personal projects.  
 
 ---
 
-## 🚀 What I Do
-- 🎨 **Design & Development** — Custom landing pages, portfolios, and brand visuals  
-- 📱 **Content Creation** — Social media graphics, promo content, and UI visuals  
-- 🎧 **Audio Mastering** — Clean radio edits & music promo for artists  
+## Core Competencies
+- **Front-End Development:** HTML5, CSS3, JavaScript (ES6+ in progress)  
+- **Design & Branding:** UX/UI design, visual identity creation, responsive layouts  
+- **Content Production:** Social media graphics, promotional materials, audio mastering  
 
 ---
 
-## 🛠 Tech Stack
-- **Languages:** HTML5, CSS3, JavaScript (learning ES6+)
-- **Tools:** VS Code, GitHub Pages, Figma, Canva
-- **Other Skills:** UX/UI design, branding, audio editing
+## Selected Projects
+- [**Responsive Landing Page**](https://lexgeeweb.github.io/responsive-landing-page/) – Demo site built with HTML/CSS  
+- **Design Portfolio** – Flyers and branding samples *(coming soon)*  
+- **JavaScript Clock App** *(coming soon)*  
 
 ---
 
-## 📌 Featured Projects
-- [**Responsive Landing Page**](https://lexgeeweb.github.io/responsive-landing-page/) — HTML/CSS demo (you’re looking at it!)
-- **Design Portfolio** — Flyers + branding samples *(coming soon)*
-- **JavaScript Clock App** *(coming soon)*
+## Tools & Technologies
+- **Development:** VS Code, GitHub Pages, Git  
+- **Design:** Figma, Canva  
+- **Other Skills:** UX/UI design principles, audio editing, branding strategy  
 
 ---
 
-## 📫 Let’s Connect
-- 📧 **Email:** [lexgeeweb@gmail.com](mailto:lexgeeweb@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/geeealexis)  
-- 🎨 [GitHub Projects](https://github.com/lexgeeweb?tab=repositories)  
+## Contact
+- **Email:** [lexgeeweb@gmail.com](mailto:lexgeeweb@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/geeealexis](https://www.linkedin.com/in/geeealexis)  
+- **GitHub Projects:** [github.com/lexgeeweb](https://github.com/lexgeeweb?tab=repositories)  
 
 ---
 
-💡 *"Turning ideas into interactive, beautiful realities — one line of code at a time."*
+*Delivering functional, visually compelling solutions through a blend of development expertise and creative design.*
