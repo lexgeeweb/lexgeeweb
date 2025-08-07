@@ -21,7 +21,7 @@ I build clean, responsive, and user-focused web experiences. With a background i
 
 ## Tools & Technologies
 - **Development:** VS Code, GitHub Pages, Git  
-- **Design:** Figma, Canva  
+- **Design:** Figma, Canva, Adobe Creative Suite  
 - **Other Skills:** UX/UI design principles, audio editing, branding strategy  
 
 ---
