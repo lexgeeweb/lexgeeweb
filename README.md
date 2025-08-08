@@ -15,7 +15,8 @@ I build clean, responsive, and user-focused web experiences. With a background i
 ## Selected Projects
 - [**Responsive Landing Page**](https://lexgeeweb.github.io/responsive-landing-page/) – Demo site built with HTML/CSS  
 - **Design Portfolio** – Flyers and branding samples *(coming soon)*  
-- **JavaScript Clock App** *(coming soon)*  
+- **JavaScript Clock App** *(coming soon)*
+- **Virginia Artists Hall of Fame** *(coming soon)*
 
 ---
 
